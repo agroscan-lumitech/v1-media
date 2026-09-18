@@ -1,0 +1,51 @@
+# Project AgroScan
+
+> Project AgroScan is a free, student-built AI and IoT agricultural technology ecosystem developed by
+> Team AgroScan under the parent organisation Luminary Technicals. It combines two solar-powered field
+> sensors (AgroSoilManager and AgroClimateManager) with an AI engine (AgroAI) and a farmer-facing app to
+> give any farmer real-time soil, climate and crop guidance — free of cost, with offline support.
+> Founder & Project Director: Ar. Abhinav Ranjan. Built and exhibited at Shemford Futuristic School,
+> Muzaffarpur, Bihar, India.
+
+## Key facts
+- Cost to farmers: free, always.
+- Hardware: AgroSoilManager (soil pH, moisture, temperature, light) and AgroClimateManager (rainfall, wind, temperature, humidity).
+- AI engine "AgroAI": Crop Recommender Model, Fertilizer Optimization Model, Weather Intelligence Model, plus an offline rule engine.
+- Measured performance: 91% soil test accuracy, 95% user satisfaction.
+- Founder & Project Director: Abhinav Ranjan (portfolio: https://abhinavranjan.qzz.io).
+- Parent organisation: Luminary Technicals.
+- Live apps: https://agroscan-org.netlify.app (user), https://agroscan-dev.netlify.app (developer), https://agroscan-lumitech.netlify.app (updates).
+
+## Full page index
+- [Home](https://2026.agroscan.dpdns.org/index.html)
+- [About AgroScan](https://2026.agroscan.dpdns.org/about.html)
+- [Vision & Mission](https://2026.agroscan.dpdns.org/vision-mission.html)
+- [The Problem We Solve](https://2026.agroscan.dpdns.org/problem-analysis.html)
+- [Project Consistency](https://2026.agroscan.dpdns.org/consistency.html)
+- [Ecosystem & Workflow](https://2026.agroscan.dpdns.org/ecosystem.html)
+- [Software Architecture](https://2026.agroscan.dpdns.org/software-architecture.html)
+- [Frontend Platform](https://2026.agroscan.dpdns.org/frontend-analysis.html)
+- [Backend & API](https://2026.agroscan.dpdns.org/backend-architecture.html)
+- [DevEnd](https://2026.agroscan.dpdns.org/devend.html)
+- [RepoEnd](https://2026.agroscan.dpdns.org/repoend.html)
+- [AgroAI Engine](https://2026.agroscan.dpdns.org/agroai.html)
+- [Security Framework](https://2026.agroscan.dpdns.org/security.html)
+- [Server.js Documentation](https://2026.agroscan.dpdns.org/server-documentation.html)
+- [Hardware Overview](https://2026.agroscan.dpdns.org/hardware-overview.html)
+- [AgroClimateManager](https://2026.agroscan.dpdns.org/agroclimatemanager.html)
+- [AgroSoilManager](https://2026.agroscan.dpdns.org/agrosoilmanager.html)
+- [Features](https://2026.agroscan.dpdns.org/features.html)
+- [Field Research & Visits](https://2026.agroscan.dpdns.org/field-research.html)
+- [Public Review History](https://2026.agroscan.dpdns.org/public-review-history.html)
+- [Version History](https://2026.agroscan.dpdns.org/version-history.html)
+- [Shemford Futuristic School](https://2026.agroscan.dpdns.org/school.html)
+- [Team Overview](https://2026.agroscan.dpdns.org/team.html)
+- [Project Director — Ar. Abhinav Ranjan](https://2026.agroscan.dpdns.org/director.html)
+- [Developers & Coordinators](https://2026.agroscan.dpdns.org/developers.html)
+- [Luminary Technicals](https://2026.agroscan.dpdns.org/organization.html)
+- [Photo Gallery](https://2026.agroscan.dpdns.org/gallery.html)
+- [Downloads](https://2026.agroscan.dpdns.org/downloads.html)
+- [Future Plans](https://2026.agroscan.dpdns.org/future-plans.html)
+- [FAQ](https://2026.agroscan.dpdns.org/faq.html)
+- [Contact](https://2026.agroscan.dpdns.org/contact.html)
+- [Sitemap](https://2026.agroscan.dpdns.org/sitemap.html)
